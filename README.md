@@ -1,6 +1,8 @@
-## Hi there 👋
+  ## Hi there 👋
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=adyanshaggarwal.adyanshaggarwal&right_color=purple)
-                
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=4500&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B;I+am+Adyansh+%3A)" alt="Typing SVG" /></a>
+
 <!--
 **adyanshaggarwal/adyanshaggarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
