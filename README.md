@@ -25,15 +25,17 @@
   </a>
 </p>
 
-
-<h2 align="center">⚙️ Tech Stack</h2>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,java,docker,kubernetes,fastapi,git,vscode,redis,mongodb" />
-    <img src="https://skillicons.dev/icons?i=firebase,tensorflow,numpy,matplotlib,selenium,html,css,opencv" />
-  </a>
-</p>
+<table>
+  <tr>
+    <!-- Left Column: Tech Stack -->
+    <td width="50%" valign="top">
+      <h3 align="center">🚀 Tech Stack</h3>
+      <p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=python,c,java,docker,kubernetes,fastapi,git,vscode,redis,mongodb" />
+          <img src="https://skillicons.dev/icons?i=firebase,tensorflow,selenium,html,css,opencv" />
+        </a>
+      </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -57,9 +59,20 @@
   <img src="https://img.shields.io/badge/RAG Pipeline-0077B6?style=for-the-badge&logo=data&logoColor=white" />
   <img src="https://img.shields.io/badge/Google ADK-34A853?style=for-the-badge&logo=google&logoColor=white" />
 </p>
+    </td>
 
-
-
+  <!-- Right Column: GitHub Stats -->
+  <td width="50%" valign="top">
+    <h3 align="center">📊 GitHub Stats</h3>
+    <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=adyanshaggarwal&show_icons=true&theme=radical" />
+    </p>
+    <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adyanshaggarwal&layout=compact&theme=tokyonight&langs_count=10" />
+    </p>
+  </td>
+  </tr>
+</table>
 
 
 
