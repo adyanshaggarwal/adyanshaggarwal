@@ -1,13 +1,12 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=3500&pause=2000&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B;I+am+Adyansh+%3A)" alt="Typing SVG" /> 
-  <img align= "right" src="https://visitor-badge.laobi.icu/badge?page_id=adyanshaggarwal.adyanshaggarwal&right_color=purple"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=3500&pause=2000&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B;I+am+Adyansh+Aggarwal%3A)" alt="Typing SVG" /> 
+  <img align= "right" valing="center" src="https://visitor-badge.laobi.icu/badge?page_id=adyanshaggarwal.adyanshaggarwal&right_color=purple"/>
 </h1>
 
-<h2 align ="left">About me:</h2>
 <p align="left">
-  I am a 2nd year BTech-AIML student, currently in my phase of making errors and learning XD. I have a knack for AI/ML, Robotics, IoT, and sustainable tech - always looking for projects to work on and upskill.
+  I am a 2nd year BTech-AIML student, currently in my phase of making errors and learning. I have a knack for AI/ML, Robotics, IoT, and sustainable tech - always looking for projects to work on and upskill.
   Connect with me on one of the socials below :)
 </p>
 
@@ -29,7 +28,7 @@
   <tr>
     <!-- Left Column: Tech Stack -->
     <td width="50%" valign="top">
-      <h2 align="center">Tech Stack</h2>
+      <h2 align="center">Tech Stack <img src="cubes-stacked-solid-full.svg" width="24" alt="Tech Stack Icon"/></i> </h2>
       <p align="center">
           <img src="https://skillicons.dev/icons?i=python,c,java,docker,kubernetes,fastapi,git,vscode,redis,mongodb,firebase,tensorflow,selenium,html,css,opencv&perline=6" />
       </p>
@@ -60,7 +59,7 @@
 
   <!-- Right Column: GitHub Stats -->
   <td width="50%" valign="top">
-    <h2 align="center">My Stats</h2>
+    <h2 align="center">My Stats <img src="chart-line-solid-full.svg" width="24" alt="Tech Stack Icon"/></h2>
     <p align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=adyanshaggarwal&show_icons=true&theme=radical" />
     </p>
