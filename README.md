@@ -1,5 +1,5 @@
 ## Hi there 👋
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=adyanshaggarwal.adyanshaggarwal?right_colour=purple)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=adyanshaggarwal.adyanshaggarwal&right_color=purple)
                 
 <!--
 **adyanshaggarwal/adyanshaggarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
