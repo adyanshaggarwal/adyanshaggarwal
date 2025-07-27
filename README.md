@@ -1,19 +1,17 @@
 
 
 <h1 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=3500&pause=2000&center=true&vCenter=true&width=435&lines=Hey+there+%F0%9F%91%8B;I'm+Adyansh+%3A)" alt="Typing SVG" /> 
- 
-  <p align="right">
-  <a href="mailto:adyanshaggarwal@gmail.com">
+  <img align ="left" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=3500&pause=2000&center=true&vCenter=true&width=435&lines=Hey+there+%F0%9F%91%8B;I'm+Adyansh+%3A)" alt="Typing SVG" /> 
+  
+  <a align= "right" href="mailto:adyanshaggarwal@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/adyansh-aggarwal-8725a6361/">
+  <a align= "right" href="https://www.linkedin.com/in/adyansh-aggarwal-8725a6361/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/adyansh05/">
+  <a align= "right" href="https://www.instagram.com/adyansh05/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-</p>
 </h1>
 
 <img src="Github_Banner_me.png" alt="My banner"/>
