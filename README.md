@@ -1,16 +1,9 @@
 
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=3500&pause=2000&center=true&vCenter=true&width=435&lines=Hey+there+%F0%9F%91%8B;I+am+Adyansh+%3A)" alt="Typing SVG" /> 
-  <!-- <img align= "right" valing="center" src="https://visitor-badge.laobi.icu/badge?page_id=adyanshaggarwal.adyanshaggarwal&right_color=purple"/> -->
-</h1>
-
-<p align="left">
-  I am a 2nd year BTech-AIML student, currently in my phase of making errors and learning. I have a knack for AI/ML, Robotics, IoT, and sustainable tech - always looking for projects to work on and upskill.
-  Connect with me on one of the socials below :)
-</p>
-
-<p align="center">
+<h1 align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=3500&pause=2000&center=true&vCenter=true&width=435&lines=Hey+there+%F0%9F%91%8B;I'm+Adyansh+%3A)" alt="Typing SVG" /> 
+ 
+  <p align="right">
   <a href="mailto:adyanshaggarwal@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
@@ -21,9 +14,12 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </p>
+</h1>
+
+<img src="Github_Banner_me.png" alt="My banner"/>
+
 
 </br>
-
 <table>
   <tr>
     <!-- Left Column: Tech Stack -->
