@@ -66,6 +66,6 @@
 
 <!-- ![GitHub Snake Light](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake.svg) -->
 
-![GitHub Snake Dark](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg?palette=github-dark)
+![GitHub Snake Dark](https://github.com/adyanshaggarwal/adyanshaggarwal/blob/output/github-snake-dark.svg?palette=github-dark)
 
 
