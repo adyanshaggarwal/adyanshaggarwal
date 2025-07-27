@@ -1,6 +1,6 @@
 
 
-<h1 align="left">
+<h1>
   <img align ="left" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=3500&pause=2000&center=true&vCenter=true&width=435&lines=Hey+there+%F0%9F%91%8B;I'm+Adyansh+%3A)" alt="Typing SVG" /> 
   
   <a align= "right" href="mailto:adyanshaggarwal@gmail.com">
@@ -64,5 +64,8 @@
   </tr>
 </table>
 
+<!-- ![GitHub Snake Light](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake.svg) -->
+
+![GitHub Snake Dark](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg?palette=github-dark)
 
 
