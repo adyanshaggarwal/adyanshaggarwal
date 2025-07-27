@@ -23,7 +23,7 @@
   <tr>
     <!-- Left Column: Tech Stack -->
     <td width="50%" valign="top">
-      <h2 align="center">Tech Stack <img src="cubes-stacked-solid-full.svg" width="24" alt="Tech Stack Icon"/></i> </h2>
+      <h2 align="center">Tech Stack</h2>
       <p align="center">
           <img src="https://skillicons.dev/icons?i=python,c,java,docker,kubernetes,fastapi,git,vscode,redis,mongodb,firebase,tensorflow,selenium,html,css,opencv&perline=6" />
       </p>
@@ -54,7 +54,7 @@
 
   <!-- Right Column: GitHub Stats -->
   <td width="50%" valign="top">
-    <h2 align="center">My Stats <img src="chart-line-solid-full.svg" width="24" alt="Tech Stack Icon"/></h2>
+    <h2 align="center">My Stats</h2>
     <p align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=adyanshaggarwal&show_icons=true&theme=radical" />
     </p>
