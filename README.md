@@ -19,7 +19,7 @@
 
 
 </br>
-<table>
+<!-- <table>
   <tr>
     <!-- Left Column: Tech Stack -->
     <td width="50%" valign="top">
@@ -63,7 +63,7 @@
     </p>
   </td>
   </tr>
-</table>
+</table> -->
 
 <!-- ![GitHub Snake Light](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake.svg) -->
 
