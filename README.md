@@ -22,13 +22,13 @@
 <!-- <table>
   <tr>
     <!-- Left Column: Tech Stack -->
-    <td width="50%" valign="top">
+    <!-- <td width="50%" valign="top">
       <h2 align="center">Tech Stack</h2>
       <p align="center">
           <img src="https://skillicons.dev/icons?i=python,c,java,docker,kubernetes,fastapi,git,vscode,redis,mongodb,firebase,tensorflow,selenium,html,css,opencv&perline=6" />
-      </p>
+      </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-2C2D72?style=for-the-badge&logo=python&logoColor=white" />
@@ -39,9 +39,9 @@
   <img src="https://img.shields.io/badge/NodeMCU-FF4A00?style=for-the-badge&logo=wifi&logoColor=white" />
   <img src="https://img.shields.io/badge/BeautifulSoup-3C8031?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Requests-CC3399?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge&logo=chainlink&logoColor=white" />
   <img src="https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge&logo=llama&logoColor=white" />
   <img src="https://img.shields.io/badge/MistralAI-000000?style=for-the-badge&logo=airbnb&logoColor=white" />
@@ -50,21 +50,16 @@
   <img src="https://img.shields.io/badge/RAG Pipeline-0077B6?style=for-the-badge&logo=data&logoColor=white" />
   <img src="https://img.shields.io/badge/Google ADK-34A853?style=for-the-badge&logo=google&logoColor=white" />
 </p>
-    </td>
+    </td> -->
 
   <!-- Right Column: GitHub Stats -->
-  <td width="50%" valign="top">
-    <h2 align="center">My Stats</h2>
-    <p align="center">
+ <!-- p align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=adyanshaggarwal&show_icons=true&theme=radical" />
     </p>
     <p align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adyanshaggarwal&layout=compact&theme=tokyonight&langs_count=10" />
-    </p>
-  </td>
-  </tr>
-</table> -->
-
+    </p> -->
+  
 <!-- ![GitHub Snake Light](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake.svg) -->
 
 ![GitHub Snake Dark](https://github.com/adyanshaggarwal/adyanshaggarwal/blob/output/github-snake-dark.svg?palette=github-dark)
